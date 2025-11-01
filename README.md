@@ -61,5 +61,4 @@ The app includes secure authentication, a protected dashboard, and dynamic chart
 
 ---
 
-## 📁 Project Structure
 
